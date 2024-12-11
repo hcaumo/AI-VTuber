@@ -1,0 +1,13 @@
+alkana
+emoji
+googletrans
+keyboard
+mecab-python3
+openai
+pandas
+PyAudio
+pytchat
+requests
+torch
+unidic
+httpx

@@ -1,0 +1,40 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "content": "Ardha said Hello, how are you?"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm great, thanks! \ud83d\ude0a"
+        },
+        {
+            "role": "user",
+            "content": "Ardha said I am 18 years old."
+        },
+        {
+            "role": "assistant",
+            "content": "That's cool! \ud83c\udf89"
+        },
+        {
+            "role": "user",
+            "content": "Ardha said What do you like to do in your free time?"
+        },
+        {
+            "role": "assistant",
+            "content": "I love chatting! \ud83d\udc96"
+        },
+        {
+            "role": "user",
+            "content": "Ardha said What's your favorite color?"
+        },
+        {
+            "role": "assistant",
+            "content": "I like pink! \ud83c\udf38"
+        },
+        {
+            "role": "user",
+            "content": "Ardha said Hello, how is it going?"
+        }
+    ]
+}
